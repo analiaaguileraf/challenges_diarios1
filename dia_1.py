@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Challenge ---> Inversión de una Cadena: Escribe un programa que invierta una cadena de caracteres dada por el usuario.
 
 # pedimos al usuario que ingrese una palabra
@@ -19,7 +17,6 @@ def invertir_caracteres(cadena_de_caracteres):
 resultado = invertir_caracteres(palabra)
 print (resultado)
 
-=======
 # pedimos al usuario que ingrese una palabra
 
 palabra= input('ingrese una palabra: ')
@@ -37,4 +34,3 @@ def invertir_caracteres(cadena_de_caracteres):
 resultado = invertir_caracteres(palabra)
 print (resultado)
 
->>>>>>> 7afddf004096cc3241c47d2276d732f203a5f469

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Challenge ---> Crear un Diccionario: Escribe un programa que cree un diccionario a partir de dos listas dadas: una de claves y otra de valores.
 
@@ -14,7 +13,6 @@ for i in range (len(claves)):
     diccionario[claves[i]] = valores [i]
 
 print ("Diccionario creado:", diccionario)
-=======
 
 # Challenge ---> Crear un Diccionario: Escribe un programa que cree un diccionario a partir de dos listas dadas: una de claves y otra de valores.
 
@@ -30,4 +28,3 @@ for i in range (len(claves)):
     diccionario[claves[i]] = valores [i]
 
 print ("Diccionario creado:", diccionario)
->>>>>>> 7afddf004096cc3241c47d2276d732f203a5f469

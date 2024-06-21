@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Challenge ---> Tabla de Multiplicar: Escribe un programa que muestre la tabla de multiplicar de un número dado por el usuario.
 
@@ -14,7 +13,6 @@ for i in range(1, 11):
     print(f"{numero} x {i} = {resultado}")
 
 
-=======
 
 # Challenge ---> Tabla de Multiplicar: Escribe un programa que muestre la tabla de multiplicar de un número dado por el usuario.
 
@@ -28,6 +26,3 @@ print(f"Tabla de multiplicar del {numero}:")
 for i in range(1, 11):
     resultado = numero * i
     print(f"{numero} x {i} = {resultado}")
-
-
->>>>>>> 7afddf004096cc3241c47d2276d732f203a5f469
