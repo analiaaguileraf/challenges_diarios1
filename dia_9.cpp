@@ -7,10 +7,10 @@ int main() {
     int num1, num2, suma;
 
     // Pedir al usuario que ingrese los números
-    cout << "Ingrese el primer número: ";
+    cout << "Ingrese el primer numero: ";
     cin >> num1;
 
-    cout << "Ingrese el segundo número: ";
+    cout << "Ingrese el segundo numero: ";
     cin >> num2;
 
     // Calcular la suma
